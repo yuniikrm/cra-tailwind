@@ -4,7 +4,7 @@ function HomePage() {
     return (
         <div className="p-5">
             <Card className="bg-gray-200 rounded-xl">
-                <div className="text-green-60 text-4xl">
+                <div className="text-red-500 text-3xl">
                     Welcome
                 </div>
             </Card>
